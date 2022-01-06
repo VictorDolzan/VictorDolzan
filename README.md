@@ -6,11 +6,11 @@
 
      <b>Front-end(Learning): </b>
     - <code><img height="25" src="https://img.shields.io/badge/Javascript-white?style=flat&logo=Javascript&logoColor=228B22" alt="Javascript"/></code>
-    <code><img height="25" src="https://img.shields.io/badge/HTML-white?style=flat&logo=html5&logoColor=FFD700" alt="Javascript"/></code>
-    <code><img height="25" src="https://img.shields.io/badge/CSS3-white?style=flat&logo=css3&logoColor=000080" alt="Javascript"/></code>
-    </n>
+    - <code><img height="25" src="https://img.shields.io/badge/HTML-white?style=flat&logo=html5&logoColor=FFD700" alt="Javascript"/></code>
+    - <code><img height="25" src="https://img.shields.io/badge/CSS3-white?style=flat&logo=css3&logoColor=000080" alt="Javascript"/></code>
+    
 - <b>Tools </b>
-    <code><img height="25" src="https://img.shields.io/badge/VSCode-white?style=flat&logo=Visual+Studio+Code&logoColor=0000CD" alt="Javascript"/></code>
+    - <code><img height="25" src="https://img.shields.io/badge/VSCode-white?style=flat&logo=Visual+Studio+Code&logoColor=0000CD" alt="Javascript"/></code>
     
 
 <img src = "./img/computador.svg" align = "right">
