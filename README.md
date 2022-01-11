@@ -1,7 +1,7 @@
 # Hello! I'm Victor Dolsan
 
 ## Knowledge: 
-- <b>Back-end</b>
+- <b>Back-end(Learning)</b>
     - <code><img height="25" src="https://img.shields.io/badge/CSharp-blue?style=flat&logo=CSharp&logoColor=white" alt="CSharp"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/PHP-7B68EE?style=flat&logo=PHP&logoColor=white" alt="CSharp"/></code>
 
