@@ -1,6 +1,9 @@
 # Hello! I'm Victor Dolsan
 
 ## Knowledge: 
+
+<img src = "./img/computador.svg" align = "right" width= "400px">
+
 - <b>Back-end(Studying again)</b>
     - <code><img height="25" src="https://img.shields.io/badge/CSharp-blue?style=flat&logo=CSharp&logoColor=white" alt="CSharp"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/PHP-7B68EE?style=flat&logo=PHP&logoColor=white" alt="CSharp"/></code>
@@ -16,7 +19,6 @@
     - <code><img height="25" src="https://img.shields.io/badge/Cypress-646466?style=flat&logo=Cypress" alt="VSCODE"/></code>   
     
 
-<img src = "./img/computador.svg" align = "right">
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorDolzan&show_icons=true&theme=maroongold)
 
