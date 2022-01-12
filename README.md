@@ -10,8 +10,10 @@
     - <code><img height="25" src="https://img.shields.io/badge/HTML-DD4B25?style=flat&logo=html5&logoColor=FFF" alt="HTML"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/CSS3-264DE4?style=flat&logo=css3&logoColor=FFF" alt="CSS3"/></code>
     
-- <b>Tools </b>
+- <b>Tools: </b>
     - <code><img height="25" src="https://img.shields.io/badge/VSCode-0384fc?style=flat&logo=Visual+Studio+Code&logoColor=FFF" alt="VSCODE"/></code>
+ - <b>Test: </b>
+    - <code><img height="25" src="https://img.shields.io/badge/Cypress-646466?style=flat&logo=Cypress" alt="VSCODE"/></code>   
     
 
 <img src = "./img/computador.svg" align = "right">
