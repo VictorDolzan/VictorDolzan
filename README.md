@@ -3,15 +3,16 @@
     <img height=30 src="https://img.shields.io/badge/-Linkedin-0179b6?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-abib/" />
   </a>
 
-## Knowledge: 
+
+## <img src="https://img.icons8.com/dusk/64/000000/son-goku.png"/>Knowledge: 
 
 <img src = "./img/computador.svg" align = "right" width= "400px">
 
-- <b>Back-end(Studying again)</b>
+- <b>Back-end</b>
     - <code><img height="25" src="https://img.shields.io/badge/CSharp-blue?style=flat&logo=CSharp&logoColor=white" alt="CSharp"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/PHP-7B68EE?style=flat&logo=PHP&logoColor=white" alt="CSharp"/></code>
 
-- <b>Front-end(Studying again): </b>
+- <b>Front-end: </b>
     - <code><img height="25" src="https://img.shields.io/badge/Javascript-F7Fd1E?style=flat&logo=Javascript&logoColor=black" alt="Javascript"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/HTML-DD4B25?style=flat&logo=html5&logoColor=FFF" alt="HTML"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/CSS3-264DE4?style=flat&logo=css3&logoColor=FFF" alt="CSS3"/></code>
