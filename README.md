@@ -4,7 +4,7 @@
   </a>
 
 
-## <img src="https://img.icons8.com/dusk/64/000000/son-goku.png"/>Knowledge: 
+## <img src="https://img.icons8.com/color/64/000000/naruto.png"/>Knowledge: 
 
 <img src = "./img/computador.svg" align = "right" width= "400px">
 
