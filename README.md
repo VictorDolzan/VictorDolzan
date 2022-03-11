@@ -6,7 +6,9 @@
 
 ## <img src="https://img.icons8.com/color/64/000000/naruto.png"/>Knowledge: 
 
-<img src = "./img/computador.svg" align = "right" width= "400px">
+<!-- <img src = "./img/computador.svg" align = "right" width= "400px"> -->
+<img src = "./img/Programming Customizable Isometric Illustrations _ Amico Style.png" align = "right" width= "400px">
+
 
 - <b>Back-end</b>
     - <code><img height="25" src="https://img.shields.io/badge/CSharp-blue?style=flat&logo=CSharp&logoColor=white" alt="CSharp"/></code>
