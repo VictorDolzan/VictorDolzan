@@ -14,6 +14,7 @@
 
 - <b>Front-end: </b>
     - <code><img height="25" src="https://img.shields.io/badge/Javascript-F7Fd1E?style=flat&logo=Javascript&logoColor=black" alt="Javascript"/></code>
+    - <code><img height="25" src="https://img.shields.io/badge/REACT-006494?style=flat&logo=REACT&logoColor=FFF" alt="REACT"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/HTML-DD4B25?style=flat&logo=html5&logoColor=FFF" alt="HTML"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/CSS3-264DE4?style=flat&logo=css3&logoColor=FFF" alt="CSS3"/></code>
     
