@@ -1,4 +1,4 @@
-# 🚀Hello! I'm Victor Dolsan 👨🏻‍🚀
+# <h1 style="font-family: 'Tomorrow', sans-serif;">🚀Hello! I'm Victor Dolsan 👨🏻‍🚀</h1>
 <a href="https://www.linkedin.com/in/victor-dolsan-56896094/" alt="Linkedin">
     <img height=30 src="https://img.shields.io/badge/-Linkedin-0179b6?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-abib/" />
   </a>
@@ -32,3 +32,7 @@
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorDolzan&show_icons=true&theme=maroongold)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDolzan&theme=maroongold&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tomorrow:ital,wght@0,400;0,500;1,300&display=swap" rel="stylesheet">
