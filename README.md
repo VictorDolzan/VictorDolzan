@@ -10,7 +10,7 @@
 <!-- <img src = "./img/Programming Customizable Isometric Illustrations _ Amico Style.png" align = "right" width= "400px">-->
 
 
-- <b>Back-end</b>
+- <b><img src="./img/space-explorer-astronaut-with-cable-attached.png"/>Back-end</b>
     - <code><img height="25" src="https://img.shields.io/badge/CSharp-blue?style=flat&logo=CSharp&logoColor=white" alt="CSharp"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/PHP-7B68EE?style=flat&logo=PHP&logoColor=white" alt="CSharp"/></code>
 
