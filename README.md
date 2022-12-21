@@ -1,4 +1,4 @@
-# <h1 style="font-family: 'Tomorrow', sans-serif;">🚀Hello! I'm Victor <img src=".img/astronaut-front.png"/></h1>
+# <h1 style="font-family: 'Tomorrow', sans-serif;">🚀Hello! I'm Victor 👨🏻‍🚀</h1>
 <a href="https://www.linkedin.com/in/victor-dolsan-56896094/" alt="Linkedin">
     <img height=30 src="https://img.shields.io/badge/-Linkedin-0179b6?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-abib/" />
   </a>
