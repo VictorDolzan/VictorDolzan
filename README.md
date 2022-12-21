@@ -14,13 +14,13 @@
     - <code><img height="25" src="https://img.shields.io/badge/CSharp-blue?style=flat&logo=CSharp&logoColor=white" alt="CSharp"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/PHP-7B68EE?style=flat&logo=PHP&logoColor=white" alt="CSharp"/></code>
 
-- <b><img src="./img/astronaut-on-space-exploration-down.png"/>Front-end: </b>
+- <b><img src="./img/space-explorer-astronaut-with-cable-attached.png"/>Front-end: </b>
     - <code><img height="25" src="https://img.shields.io/badge/Javascript-F7Fd1E?style=flat&logo=Javascript&logoColor=black" alt="Javascript"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/REACT-006494?style=flat&logo=REACT&logoColor=FFF" alt="REACT"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/HTML-DD4B25?style=flat&logo=html5&logoColor=FFF" alt="HTML"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/CSS3-264DE4?style=flat&logo=css3&logoColor=FFF" alt="CSS3"/></code>
     
-- <b><img src="./img/space-explorer-astronaut-with-cable-attached.png"/>Tools: </b>
+- <b><img src="./img/astronaut-on-space-exploration-down.png"/>Tools: </b>
     - <code><img height="25" src="https://img.shields.io/badge/VSCode-0384fc?style=flat&logo=Visual+Studio+Code&logoColor=FFF" alt="VSCODE"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/Rider-ed8127?style=flat&logo=Rider&logoColor=000000" alt="Rider"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/WebStorm-00cdd7?style=flat&logo=WebStorm&logoColor=000000" alt="WebStorm"/></code>
