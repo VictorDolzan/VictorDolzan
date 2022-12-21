@@ -4,7 +4,7 @@
   </a>
 
 
-## <img src="https://img.icons8.com/color/64/000000/naruto.png"/>Knowledge: 
+## <img src="https://img.icons8.com/external-icongeek26-flat-icongeek26/64/null/external-astronaut-space-icongeek26-flat-icongeek26-1.png"/>Knowledge:
 
 <!-- <img src = "./img/computador.svg" align = "right" width= "400px"> -->
 <img src = "./img/Programming Customizable Isometric Illustrations _ Amico Style.png" align = "right" width= "400px">
