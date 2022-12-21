@@ -6,8 +6,8 @@
 
 ## <img src="./img/icons8-astronaut-64.png"/>Knowledge:
 
-<!-- <img src = "./img/computador.svg" align = "right" width= "400px"> -->
-<img src = "./img/Programming Customizable Isometric Illustrations _ Amico Style.png" align = "right" width= "400px">
+<img src = "./img/computador.svg" align = "right" width= "400px">
+<!-- <img src = "./img/Programming Customizable Isometric Illustrations _ Amico Style.png" align = "right" width= "400px">-->
 
 
 - <b>Back-end</b>
