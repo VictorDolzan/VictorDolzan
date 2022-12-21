@@ -22,7 +22,7 @@
     
 - <b><img src="./img/space-explorer-astronaut-with-cable-attached.png"/>Tools: </b>
     - <code><img height="25" src="https://img.shields.io/badge/VSCode-0384fc?style=flat&logo=Visual+Studio+Code&logoColor=FFF" alt="VSCODE"/></code>
-    - <code><img height="25" src="https://img.shields.io/badge/Rider-DC143C?style=flat&logo=Rider&logoColor=000000" alt="Rider"/></code>
+    - <code><img height="25" src="https://img.shields.io/badge/Rider-ed8127?style=flat&logo=Rider&logoColor=000000" alt="Rider"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/WebStorm-00cdd7?style=flat&logo=WebStorm&logoColor=000000" alt="WebStorm"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/DataGrip-d37ada?style=flat&logo=DataGrip&logoColor=000000" alt="DataGrip"/></code>
 
