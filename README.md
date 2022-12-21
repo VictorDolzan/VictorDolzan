@@ -10,7 +10,7 @@
 <!-- <img src = "./img/Programming Customizable Isometric Illustrations _ Amico Style.png" align = "right" width= "400px">-->
 
 
-- <b><img src="./img/space-explorer-astronaut-with-cable-attached.png"/>Back-end: </b>
+- <b><img src="./img/astronaut-suit-helmet-with-glass-protection.png"/>Back-end: </b>
     - <code><img height="25" src="https://img.shields.io/badge/CSharp-blue?style=flat&logo=CSharp&logoColor=white" alt="CSharp"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/PHP-7B68EE?style=flat&logo=PHP&logoColor=white" alt="CSharp"/></code>
 
@@ -20,7 +20,7 @@
     - <code><img height="25" src="https://img.shields.io/badge/HTML-DD4B25?style=flat&logo=html5&logoColor=FFF" alt="HTML"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/CSS3-264DE4?style=flat&logo=css3&logoColor=FFF" alt="CSS3"/></code>
     
-- <b><img src="./img/astronaut-suit-helmet-with-glass-protection.png"/>Tools: </b>
+- <b><img src="./img/space-explorer-astronaut-with-cable-attached.png"/>Tools: </b>
     - <code><img height="25" src="https://img.shields.io/badge/VSCode-0384fc?style=flat&logo=Visual+Studio+Code&logoColor=FFF" alt="VSCODE"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/Rider-DC143C?style=flat&logo=Rider&logoColor=000000" alt="Rider"/></code>
  - <b><img src="./img/astronaut-with-full-life-support-suit-for-space.png"/>Test: </b>
