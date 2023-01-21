@@ -39,9 +39,9 @@
 ## <b>📈 GitHub Stats:</b>
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorDolzan&show_icons=true&theme=maroongold)
-<image width="880em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorDolzan&theme=dracula">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDolzan&theme=maroongold&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![VictorDolzan's](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Victor&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<image width="880em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorDolzan&theme=dracula">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
