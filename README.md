@@ -21,6 +21,7 @@
 - ### <b><img src="./img/astronaut-hoisting-flag-on-moon.png"/> Libraries and Frameworks: </b>    
   - <code><img height="25" src="https://img.shields.io/badge/Bootstrap-fff?style=flat&logo=Bootstrap" alt="Bootstrap"/></code>
   -   <code><img height="25" src="https://img.shields.io/badge/React-000000?style=flat&logo=React" alt="React"/></code>
+  -   <code><img height="25" src="https://img.shields.io/badge/Entity Framework-0071ba?style=flat&logo=CSharp" alt="EntityFramework"/></code>
   
 - ### <b><img src="./img/astronaut-on-space-exploration-down.png"/> Tools: </b>
     - <code><img height="25" src="https://img.shields.io/badge/VSCode-0384fc?style=flat&logo=Visual+Studio+Code&logoColor=FFF" alt="VSCODE"/></code>
