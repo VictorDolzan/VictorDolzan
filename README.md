@@ -33,12 +33,12 @@
     - <code><img height="25" src="https://img.shields.io/badge/-Postman-ffffff?style=flat&logo=Postman" alt="Postman"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma" alt="Figma"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/-Intellij IDEA Ultimate-fe265c?style=flat&logo=IntellijIDEA&logoColor=black" alt="Intellij IDEA Ultimate"/></code>
-    - <code><img height="25" src="https://img.shields.io/badge/-Atlassian-0265ff?style=flat&logo=Atlassian&logoColor=#a2c5f9" alt="Jira"/></code>
+    - <code><img height="25" src="https://img.shields.io/badge/-Atlassian-0265ff?style=flat&logo=Atlassian&logoColor=a2c5f9" alt="Jira"/></code>
 
  - ### <b><img src="./img/astronaut-with-full-life-support-suit-for-space.png"/> Test: </b>
     - <code><img height="25" src="https://img.shields.io/badge/Cypress-646466?style=flat&logo=Cypress" alt="Cypress"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/Swagger-black?style=flat&logo=Swagger" alt="Swagger"/></code>   
-    - <code><img height="25" src="https://img.shields.io/badge/Selenium-93c843?style=flat&logo=Selenium&logoColor=#ffffff" alt="Selenium"/></code>   
+    - <code><img height="25" src="https://img.shields.io/badge/Selenium-93c843?style=flat&logo=Selenium&logoColor=ffffff" alt="Selenium"/></code>   
 
 ## <b>📈 GitHub Stats:</b>
 
