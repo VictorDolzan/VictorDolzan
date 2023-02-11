@@ -38,6 +38,7 @@
  - ### <b><img src="./img/astronaut-with-full-life-support-suit-for-space.png"/> Test: </b>
     - <code><img height="25" src="https://img.shields.io/badge/Cypress-646466?style=flat&logo=Cypress" alt="Cypress"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/Swagger-black?style=flat&logo=Swagger" alt="Swagger"/></code>   
+    - <code><img height="25" src="https://img.shields.io/badge/Selenium-93c843?style=flat&logo=Selenium&logoColor=#ffffff" alt="Selenium"/></code>   
 
 ## <b>📈 GitHub Stats:</b>
 
