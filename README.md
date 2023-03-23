@@ -4,7 +4,7 @@
   </a>
 
 
-## <img src="./img/astronaut-thinking.png"/>Knowledge:
+## <img src="./img/astronaut-thinking.png"/>Knowledge:              <img src="./img/sleepingRobot.png"/>
 
 [//]: # (<img src = "./img/computador.svg" align = "right" width= "400px">)
 <img src = "./img/programmer-doing-programming-3454631-2918520.webp" align = "right" width= "400px">
