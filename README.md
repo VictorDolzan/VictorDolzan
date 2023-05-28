@@ -25,13 +25,14 @@
   -   <code><img height="25" src="https://img.shields.io/badge/Entity Framework Core-0071ba?style=flat&logo=CSharp" alt="EntityFrameworkCore"/></code>
   
 - ### <b><img src="./img/astronaut-on-space-exploration-down.png"/> Tools: </b>
+    - <code><img height="25" src="https://img.shields.io/badge/GitHub-e1e2e3?style=flat&logo=GitHub&logoColor=000000" alt="GitHub"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/VSCode-0384fc?style=flat&logo=Visual+Studio+Code&logoColor=FFF" alt="VSCODE"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/Rider-ed8127?style=flat&logo=Rider&logoColor=000000" alt="Rider"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/WebStorm-00cdd7?style=flat&logo=WebStorm&logoColor=000000" alt="WebStorm"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/DataGrip-d37ada?style=flat&logo=DataGrip&logoColor=000000" alt="DataGrip"/></code>
-    - <code><img height="25" src="https://img.shields.io/badge/Git-fff?style=flat&logo=Git" alt="Git"/></code>
+    - <code><img height="25" src="https://img.shields.io/badge/Git-e1e2e3?style=flat&logo=Git" alt="Git"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/-Bitbucket-0265ff?style=flat&logo=Bitbucket&logoColor=a2c5f9" alt="Bitbucket"/></code>
-    - <code><img height="25" src="https://img.shields.io/badge/-Postman-ffffff?style=flat&logo=Postman" alt="Postman"/></code>
+    - <code><img height="25" src="https://img.shields.io/badge/-Postman-e1e2e3?style=flat&logo=Postman" alt="Postman"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma" alt="Figma"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/-Intellij IDEA Ultimate-fe265c?style=flat&logo=IntellijIDEA&logoColor=black" alt="Intellij IDEA Ultimate"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/-Atlassian-0265ff?style=flat&logo=Atlassian&logoColor=a2c5f9" alt="Jira"/></code>
