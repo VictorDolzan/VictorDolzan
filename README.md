@@ -1,4 +1,4 @@
-# <h1 style="font-family: 'Tomorrow', sans-serif;"><img src="./img/sleepingRobot.png"/>Hello! I'm Victor Dolsan<img src="./img/dotNet_bot.png" width="100px"></h1>
+# <h1 style="font-family: 'Tomorrow', sans-serif;"><img src="./img/sleepingRobot.png"/>Hello! I'm Victor Dolsan<img src="./img/dotNet_bot.png" width="100px"> </h1>
 <a href="https://www.linkedin.com/in/victor-dolsan-56896094/" alt="Linkedin">
     <img height=30 src="https://img.shields.io/badge/-Linkedin-0179b6?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-abib/" />
   </a>
@@ -7,7 +7,7 @@
 ## <img src="./img/astronaut-thinking.png"/>Knowledge:              
 
 [//]: # (<img src = "./img/computador.svg" align = "right" width= "400px">)
-<img src = "./img/programmer-doing-programming-3454631-2918520.webp" align = "right" width= "400px">
+<img src = "./img/Programmer doing programming.webp" align = "right" width= "400px">
 <!-- <img src = "./img/Programming Customizable Isometric Illustrations _ Amico Style.png" align = "right" width= "400px">-->
 
 
