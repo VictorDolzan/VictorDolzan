@@ -14,7 +14,8 @@
 
 - ### <b><img src="./img/astronaut-suit-helmet-with-glass-protection.png"/> Back-end: </b>
     - <code><img height="25" src="https://img.shields.io/badge/CSharp-blue?style=flat&logo=CSharp&logoColor=white" alt="CSharp"/></code>
-    - <code><img height="25" src="https://img.shields.io/badge/PHP-7B68EE?style=flat&logo=PHP&logoColor=white" alt="CSharp"/></code>
+
+[//]: # (    - <code><img height="25" src="https://img.shields.io/badge/PHP-7B68EE?style=flat&logo=PHP&logoColor=white" alt="CSharp"/></code>)
 
 - ### <b><img src="./img/space-explorer-astronaut-with-cable-attached.png"/> Front-end: </b>
     - <code><img height="25" src="https://img.shields.io/badge/Javascript-F7Fd1E?style=flat&logo=Javascript&logoColor=black" alt="Javascript"/></code>
