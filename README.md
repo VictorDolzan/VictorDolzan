@@ -8,7 +8,8 @@
 
 [//]: # (<img src = "./img/computador.svg" align = "right" width= "400px">)
 <!-- <img src = "./img/Programmer doing programming.webp" align = "right" width= "400px">-->
-<img src = "./img/C-Development.webp" align = "right" width= "400px">
+<!--<img src = "./img/C-Development.webp" align = "right" width= "400px">-->
+<img src = "./img/CSharpProgrammer.png" align = "right" width= "400px">
 
 
 - ### <b><img src="./img/astronaut-suit-helmet-with-glass-protection.png"/> Back-end: </b>
