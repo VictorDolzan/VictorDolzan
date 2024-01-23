@@ -46,7 +46,6 @@
 
 
 ## <b><img src="./img/native-mobile-apps-cs-bot-platforms.svg" height="100px">GitHub Stats:</b>
-
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorDolzan&show_icons=true&theme=maroongold)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDolzan&theme=maroongold&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![VictorDolzan's](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Victor&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
