@@ -4,7 +4,7 @@
   </a>
 
 
-## <h1 style="font-family: 'Tomorrow', sans-serif;"><img src="./img/asp-dot-net-core-modern-innovative-bot-computer.svg" height="100px"/>Knowledge:</h1> 
+## <h1 style="font-family: 'Tomorrow', sans-serif;"><img src="./img/free-code-editor-tools-bot-desk.svg" height="100px"/>Knowledge:</h1> 
 
 [//]: # (<img src = "./img/computador.svg" align = "right" width= "400px">)
 <!-- <img src = "./img/Programmer doing programming.webp" align = "right" width= "400px">-->
