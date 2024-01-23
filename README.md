@@ -44,7 +44,7 @@
     - <code><img height="25" src="https://img.shields.io/badge/Swagger-black?style=flat&logo=Swagger" alt="Swagger"/></code>   
     - <code><img height="25" src="https://img.shields.io/badge/Selenium-93c843?style=flat&logo=Selenium&logoColor=ffffff" alt="Selenium"/></code>   
 
-## <b><img src="./img/native-mobile-apps-cs-bot-platforms.svg" height="100px">GitHub Stats:</b>
+# <b><img src="./img/native-mobile-apps-cs-bot-platforms.svg" height="100px">GitHub Stats:</b>
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorDolzan&show_icons=true&theme=maroongold)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDolzan&theme=maroongold&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
