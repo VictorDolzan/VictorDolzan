@@ -25,6 +25,7 @@
   - <code><img height="25" src="https://img.shields.io/badge/Bootstrap-fff?style=flat&logo=Bootstrap" alt="Bootstrap"/></code>
   -   <code><img height="25" src="https://img.shields.io/badge/React-000000?style=flat&logo=React" alt="React"/></code>
   -   <code><img height="25" src="https://img.shields.io/badge/Entity Framework Core-0071ba?style=flat&logo=CSharp" alt="EntityFrameworkCore"/></code>
+  -   <code><img height="25" src="https://img.shields.io/badge/.NET Core-0071ba?style=flat&logo=dotnet" alt=".NET Core"/></code>
   
 - ### <b><img src="./img/astronaut-on-space-exploration-down.png"/> Tools: </b>
     - <code><img height="25" src="https://img.shields.io/badge/GitHub-e1e2e3?style=flat&logo=GitHub&logoColor=000000" alt="GitHub"/></code>
