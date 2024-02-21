@@ -53,10 +53,10 @@ I returned to Brazil in 2021 when I got a job as a Quality Assurance and right a
 
 
 ## <b><img src="./img/native-mobile-apps-cs-bot-platforms.svg" height="100px">GitHub Stats:</b>
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorDolzan&show_icons=true&theme=maroongold)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDolzan&theme=maroongold&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![VictorDolzan's](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Victor&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<image width="880em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorDolzan&theme=dracula">
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorDolzan&show_icons=true&theme=prussian)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDolzan&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![VictorDolzan's](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Victor&theme=prussian)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<image width="880em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorDolzan&theme=prussian">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
