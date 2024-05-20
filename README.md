@@ -32,6 +32,7 @@ I returned to Brazil in 2021 when I got a job as a Quality Assurance and right a
   -   <code><img height="25" src="https://img.shields.io/badge/React-000000?style=flat&logo=React" alt="React"/></code>
   -   <code><img height="25" src="https://img.shields.io/badge/Entity Framework Core-0071ba?style=flat&logo=CSharp" alt="EntityFrameworkCore"/></code>
   -   <code><img height="25" src="https://img.shields.io/badge/.NET Core-0071ba?style=flat&logo=dotnet" alt=".NET Core"/></code>
+  -   <code><img height="25" src="https://img.shields.io/badge/Jquery-fe7042?style=flat&logo=jquery" alt="JQuery"/></code>
   
 - ### <b><img src="./img/astronaut-on-space-exploration-down.png"/> Tools: </b>
     - <code><img height="25" src="https://img.shields.io/badge/GitHub-e1e2e3?style=flat&logo=GitHub&logoColor=000000" alt="GitHub"/></code>
@@ -44,7 +45,8 @@ I returned to Brazil in 2021 when I got a job as a Quality Assurance and right a
     - <code><img height="25" src="https://img.shields.io/badge/-Postman-e1e2e3?style=flat&logo=Postman" alt="Postman"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma" alt="Figma"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/-Intellij IDEA Ultimate-fe265c?style=flat&logo=IntellijIDEA&logoColor=black" alt="Intellij IDEA Ultimate"/></code>
-    - <code><img height="25" src="https://img.shields.io/badge/-Atlassian-0265ff?style=flat&logo=Atlassian&logoColor=a2c5f9" alt="Jira"/></code>
+    - <code><img height="25" src="https://img.shields.io/badge/-Atlassian-0265ff?style=flat&logo=Atlassian&logoColor=a2c5f9" alt="Atlassian"/></code>
+    - <code><img height="25" src="https://img.shields.io/badge/-AWS-232f3e?style=flat&logo=Amazon&logoColor=a2c5f9" alt="AmazonAws"/></code>
 
  - ### <b><img src="./img/astronaut-with-full-life-support-suit-for-space.png"/> Test: </b>
     - <code><img height="25" src="https://img.shields.io/badge/Cypress-646466?style=flat&logo=Cypress" alt="Cypress"/></code>
@@ -54,8 +56,8 @@ I returned to Brazil in 2021 when I got a job as a Quality Assurance and right a
 
 ## <b><img src="./img/native-mobile-apps-cs-bot-platforms.svg" height="100px">GitHub Stats:</b>
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorDolzan&show_icons=true&theme=prussian)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDolzan&theme=prussian&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![VictorDolzan's](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Victor&theme=prussian)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDolzan&theme=prussian&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![VictorDolzan's](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorDolzan&theme=prussian&layout=pie)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <image width="880em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VictorDolzan&theme=prussian">
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
