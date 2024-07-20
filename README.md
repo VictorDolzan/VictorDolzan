@@ -30,13 +30,15 @@ I returned to Brazil in 2021 when I got a job as a Quality Assurance and right a
 - ### <b><img src="./img/astronaut-hoisting-flag-on-moon.png"/> Libraries and Frameworks: </b>    
   - <code><img height="25" src="https://img.shields.io/badge/Bootstrap-fff?style=flat&logo=Bootstrap" alt="Bootstrap"/></code>
   -   <code><img height="25" src="https://img.shields.io/badge/React-000000?style=flat&logo=React" alt="React"/></code>
-  -   <code><img height="25" src="https://img.shields.io/badge/Entity Framework Core-0071ba?style=flat&logo=CSharp" alt="EntityFrameworkCore"/></code>
+  -   <code><img height="25" src="https://img.shields.io/badge/Redux-000000?style=flat&logo=Redux&logoColor=500045" alt="Redux"/></code>
+  -   <code><img height="25" src="https://img.shields.io/badge/TypeScript-da4dc7?style=flat&logo=Typescript&logoColor=white" alt="Redux"/></code>
+  -   <code><img height="25" src="https://img.shields.io/badge/Entity Framework Core-0071ba?style=flat&logo=dotnet" alt="EntityFrameworkCore"/></code>
   -   <code><img height="25" src="https://img.shields.io/badge/.NET Core-0071ba?style=flat&logo=dotnet" alt=".NET Core"/></code>
   -   <code><img height="25" src="https://img.shields.io/badge/Jquery-fe7042?style=flat&logo=jquery" alt="JQuery"/></code>
   
 - ### <b><img src="./img/astronaut-on-space-exploration-down.png"/> Tools: </b>
     - <code><img height="25" src="https://img.shields.io/badge/GitHub-e1e2e3?style=flat&logo=GitHub&logoColor=000000" alt="GitHub"/></code>
-    - <code><img height="25" src="https://img.shields.io/badge/VSCode-0384fc?style=flat&logo=Visual+Studio+Code&logoColor=FFF" alt="VSCODE"/></code>
+    - <code><img height="25" src="https://img.shields.io/badge/VSCode-0384fc?style=flat&logo=VisualStudioCode&logoColor=FFF" alt="VSCODE"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/Rider-ed8127?style=flat&logo=Rider&logoColor=000000" alt="Rider"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/WebStorm-00cdd7?style=flat&logo=WebStorm&logoColor=000000" alt="WebStorm"/></code>
     - <code><img height="25" src="https://img.shields.io/badge/DataGrip-d37ada?style=flat&logo=DataGrip&logoColor=000000" alt="DataGrip"/></code>
