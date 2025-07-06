@@ -1,4 +1,4 @@
-# <h1 style="font-family: 'Tomorrow', sans-serif;"><img src="./img/dotnet-bot.svg" height="50px"/>Hello! I'm Victor Dolsan<img src="./img/dotnet-bot_presenting.svg" height="50px"></h1>
+# <h1 style="font-family: 'Tomorrow', sans-serif;height=50px"><img src="./img/dotnet-bot.svg" height="50px"/>Hello! I'm Victor Dolsan<img src="./img/dotnet-bot_presenting.svg" height="50px"></h1>
 <h2 style="font-size: 20px">My name is Victor Dolsan, I'm a brazilian full stack developer working in Brazil.
 I've started my career in IT back in 2011 when I was 19 years old when I was accepted in a University in Rio de Janeiro's countryside. I've studied for 3 years before I move to Auckland-New Zealand where I lived for about 4 years.
 In New Zealand I worked in many jobs such as Labour, Waiter, Factory Worker, Cleaner, helping carpenters. My time in New Zealand was the best experience I could ever had; the country is beautiful and well organized. By the time I was there I finished a level 7 IT bachelor graduation.
