@@ -1,16 +1,16 @@
-# <h1 style="font-family: 'Tomorrow', sans-serif;"><img src="./img/dotnet-bot.svg"  width="40px" height="40px"/>Hello! I'm Victor Dolsan<img src="./img/dotnet-bot_presenting.svg"  width="40px" height="40px"></h1>
+# <h1 style="font-family: 'Tomorrow', sans-serif;"><img src="./img/dotnet-bot.svg" width="100px" height="100px"/>Hello! I'm Victor Dolsan<img src="./img/dotnet-bot_presenting.svg" width="100px" height="100px"></h1>
 <h2 style="font-size: 20px">My name is Victor Dolsan, I'm a brazilian full stack developer working in Brazil.
 I've started my career in IT back in 2011 when I was 19 years old when I was accepted in a University in Rio de Janeiro's countryside. I've studied for 3 years before I move to Auckland-New Zealand where I lived for about 4 years.
 In New Zealand I worked in many jobs such as Labour, Waiter, Factory Worker, Cleaner, helping carpenters. My time in New Zealand was the best experience I could ever had; the country is beautiful and well organized. By the time I was there I finished a level 7 IT bachelor graduation.
 I returned to Brazil in 2021 when I got a job as a Quality Assurance and right after as a Software Developer.</h2>
 
-## <h1 style="font-family: 'Tomorrow', sans-serif;"><img src="./img/dotnet-bot_iot.svg" height="50px">Socials:</h1>
+## <h1 style="font-family: 'Tomorrow', sans-serif;"><img src="./img/dotnet-bot_iot.svg" width="100px" height="100px">Socials:</h1>
 <a href="https://www.linkedin.com/in/victor-dolsan-56896094/" alt="Linkedin">
     <img height=30 src="https://img.shields.io/badge/-Linkedin-0179b6?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karen-abib/" />
   </a>
 
 
-## <h1 style="font-family: 'Tomorrow', sans-serif;"><img src="./img/free-code-editor-tools-bot-desk.svg" height="50px"/>Knowledge:</h1> 
+## <h1 style="font-family: 'Tomorrow', sans-serif;"><img src="./img/free-code-editor-tools-bot-desk.svg" width="100px" height="100px"/>Knowledge:</h1> 
 
 [//]: # (<img src = "./img/computador.svg" align = "right" width= "400px">)
 <!-- <img src = "./img/Programmer doing programming.webp" align = "right" width= "400px">-->
@@ -56,7 +56,7 @@ I returned to Brazil in 2021 when I got a job as a Quality Assurance and right a
     - <code><img height="25" src="https://img.shields.io/badge/Selenium-93c843?style=flat&logo=Selenium&logoColor=ffffff" alt="Selenium"/></code>   
 
 
-## <b><img src="./img/native-mobile-apps-cs-bot-platforms.svg" height="50px">GitHub Stats:</b>
+## <b><img src="./img/native-mobile-apps-cs-bot-platforms.svg" width="100px" height="100px">GitHub Stats:</b>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDolzan&theme=prussian&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![VictorDolzan's](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VictorDolzan&theme=prussian&layout=pie)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorDolzan&show_icons=true&theme=prussian)
